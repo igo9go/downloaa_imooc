@@ -1,0 +1,16 @@
+{
+  "name": "immoc",
+  "type": "library",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "igo9go",
+      "email": "1@qq.com"
+    }
+  ],
+  "require": {
+    "symfony/dom-crawler": "2.8.*|3.0.*|3.1.*",
+    "symfony/css-selector": "2.8.*|3.0.*|3.1.*"
+  },
+  "minimum-stability": "dev"
+}
